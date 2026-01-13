@@ -20,6 +20,17 @@ packages/contracts/artifacts
 
 packages/artifacts/src/abi.ts
 
+# IDE - IntelliJ IDEA
+.idea
+*.iml
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+
 # files
 *.env
 *.log
